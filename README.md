@@ -68,15 +68,14 @@
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|------------|----------------|----------------|----------|
-| **🌱 AI-Based Crop Disease Detection System** | Implemented a CNN-driven crop disease detection solution with 90%+ accuracy, supporting farmers with real-time predictions | `Python` `TensorFlow` `Keras` `OpenCV` `Streamlit` | [📁 Code](https://github.com/t-purusottam-reddy/crop-disease-detection) |
-| **🔒 Cybercrime Report & Awareness Portal** | Developed a full-stack web application for reporting cybercrimes and raising awareness, integrated with authentication, report submission, duplicate reporting, community scam wall, and fraud lookup tool | `React` `Supabase` `PostgreSQL` | [📁 Code](https://github.com/t-purusottam-reddy/cybercrime-portal) |
-| **📝 Full-Stack Blogging Platform** | Built a blog platform with authentication, post creation/editing, and comments; integrated REST APIs | `Django` `React` `REST Framework` `SQLite` | [📁 Code](https://github.com/t-purusottam-reddy/blog-platform) |
-| **🛒 Responsive E-Commerce Website** | Developed a responsive website with product catalog, smooth UI, secure navigation, user interaction | `HTML` `CSS` `JavaScript` | [📁 Code](https://github.com/t-purusottam-reddy/ecommerce-website) |
+| 🎯 Project                                                 | 📝 Description                                                                                                                                                                                                                                | 🛠️ Tech Stack                                                                                  | 🔗 Links                                                                       |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **🛍️ GroNow – Smart Online Grocery Shopping Application** | Engineered a scalable MERN-based grocery delivery platform enabling users to browse, order, and manage groceries online. Integrated secure authentication, seller management, Stripe payments, and Cloudinary-based product image management. | `React.js` `Node.js` `Express.js` `MongoDB Atlas` `Tailwind CSS` `Stripe` `Cloudinary` `Multer` | [📁 Code](https://github.com/PurusottamReddy/GroNow)                           |
+| **💰 SpendWise – Finance Management Platform**             | Designed and developed a full-stack expense tracking system with interactive dashboards and analytics. Implemented JWT authentication, Excel export functionality, and data visualization using Recharts.                                     | `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Recharts` `JWT` `XLSX`                    | [📁 Code](https://github.com/PurusottamReddy/Expense-Tracker)                  |
+| **🌱 AI-Based Crop Disease Detection System**              | Developed a CNN-based model achieving 90%+ accuracy in detecting crop diseases from leaf images. Built a Streamlit web app providing real-time detection and actionable insights for farmers.                                                 | `Python` `TensorFlow` `Keras` `NumPy` `Pandas` `Matplotlib` `Streamlit`                         | [📁 Code](https://github.com/PurusottamReddy/Plant-Disease-Prediction)         |
+| **🔒 Cybercrime Report & Awareness Portal**                | Built a full-stack web app for cybercrime reporting and awareness, featuring user authentication, report submission, community scam wall, and fraud lookup tool.                                                                              | `React` `Supabase` `PostgreSQL`                                                                 | [📁 Code](https://github.com/PurusottamReddy/Cyber-Crime-Report-And-Awareness) |
 
 </div>
-
 ---
 
 ## 🎯 Current Focus
