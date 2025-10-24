@@ -76,6 +76,7 @@
 | **🔒 Cybercrime Report & Awareness Portal**                | Built a full-stack web app for cybercrime reporting and awareness, featuring user authentication, report submission, community scam wall, and fraud lookup tool.                                                                              | `React` `Supabase` `PostgreSQL`                                                                 | [📁 Code](https://github.com/PurusottamReddy/Cyber-Crime-Report-And-Awareness) |
 
 </div>
+
 ---
 
 ## 🎯 Current Focus
